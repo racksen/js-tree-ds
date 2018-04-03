@@ -1,16 +1,16 @@
 - clone the repo and cd
 ```
-git clone ''''
-cd <dir_name>
+git clone https://github.com/racksen/js-tree-ds.git
+cd js-tree-ds
 ```
 
 - If yarn installed
 ```
 yarn
-jest
+yarn test
 ```
 - otherwise
 ```
 npm install
-jest
+npm run test
 ```
