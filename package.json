@@ -1,0 +1,19 @@
+{
+  "name": "js-category-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.1",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.2"
+  },
+  "keywords": [],
+  "author": "Ramalingam Senthil <racksen@gmail.com> (http://www.racksen.info/)",
+  "license": "ISC"
+}
